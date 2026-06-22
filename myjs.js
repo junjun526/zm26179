@@ -1,3 +1,3 @@
-alert（’Hello,Osamu！’）；
-alert（１＋１）
-alert（Math.sqrt(１＋１))
+alert('Hello,junpei')；
+alert(1＋1)；
+alert(Math.sqrt(1＋1)
